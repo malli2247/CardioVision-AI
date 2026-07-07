@@ -47,12 +47,14 @@ The application predicts whether a patient is at risk of heart disease based on 
 
 ### Prediction Result
 
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshots/patient_info.png)
 
 ### Analytics
 
-![Analytics](screenshots/charts.png)
+![Analytics](screenshots/risk meter.png)
 
+###Summary
+![Summary](screenshots/summary.png)
 ---
 
 ## 🧠 Machine Learning Workflow
