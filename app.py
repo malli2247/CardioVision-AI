@@ -966,7 +966,7 @@ margin-top:40px;
 
 <h2>❤️ CardioVision AI</h2>
 
-<p>Developed for CodeAlpha Machine Learning Internship</p>
+<p>Developed yy Boya Mallikarjuna</p>
 
 <p>Python • Streamlit • Scikit-Learn • Plotly</p>
 
