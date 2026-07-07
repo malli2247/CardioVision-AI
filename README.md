@@ -53,7 +53,7 @@ The application predicts whether a patient is at risk of heart disease based on 
 
 ![Analytics](screenshots/risk_meter.png)
 
-###Summary
+### Summary
 ![Summary](screenshots/summary.png)
 ---
 
