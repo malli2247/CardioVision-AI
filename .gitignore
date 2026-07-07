@@ -216,3 +216,38 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ============================
+# Machine Learning
+# ============================
+
+# TensorBoard
+logs/
+runs/
+
+# Model checkpoints
+checkpoints/
+*.ckpt
+*.h5
+*.keras
+*.pth
+*.pt
+*.onnx
+
+# Large datasets (keep sample datasets if needed)
+data/
+datasets/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Generated reports
+reports/
+*.pdf
+
+# Temporary files
+*.tmp
+*.bak
