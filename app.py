@@ -966,9 +966,9 @@ margin-top:40px;
 
 <h2>❤️ CardioVision AI</h2>
 
-<p>Developed yy Boya Mallikarjuna</p>
+<p>Developed by Boya Mallikarjuna</p>
 
-<p>Python • Streamlit • Scikit-Learn • Plotly</p>
+<p>• Python • Streamlit • Scikit-Learn • Plotly</p>
 
 </div>
 """, unsafe_allow_html=True)
