@@ -192,7 +192,7 @@ streamlit run app.py
 **Boya Mallikarjuna**
 
 - GitHub: https://github.com/malli2247
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/mallikarjuna-boya
 
 ---
 
